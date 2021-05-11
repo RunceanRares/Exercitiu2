@@ -36,6 +36,15 @@ namespace Exercitiul2
             vehicleDirector.CreateVehicle();
             vehicle = vehicleDirector.GetVehicle();
             vehicle.ShowInfo();
+
+            Console.WriteLine("---------------------------------------------");
+            Console.WriteLine("---------------------------------------------");
+
+            vehicleDirector = new VehicleDirector(new PickupBuilder());
+            vehicleDirector.CreateVehicle();
+            vehicle = vehicleDirector.GetVehicle();
+            vehicle.ShowInfo();
+
             Console.ReadKey();
         }
     }

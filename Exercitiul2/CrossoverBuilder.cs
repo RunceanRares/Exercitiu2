@@ -10,7 +10,7 @@
 
         public void SetEngine()
         {
-            objVehicle.Engine = "2.2 TDI";
+            objVehicle.Engine = Engine.Benzine.ToString() ;
         }
 
         public void SetColor()

@@ -1,29 +1,31 @@
-﻿namespace Exercitiul2
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Exercitiul2
 {
-    public class SedanBuilder : IVehicleBuilder
+    public class PickupBuilder: IVehicleBuilder
     {
         Vehicle objVehicle = new Vehicle();
         public void SetModel()
         {
-            objVehicle.Model = "Sedan";
+            objVehicle.Model = "Pickup";
         }
 
         public void SetEngine()
         {
-            objVehicle.Engine = Engine.Benzine.ToString();
+            objVehicle.Engine = Engine.Disel.ToString();
         }
 
         public void SetColor()
         {
-            objVehicle.Color = "Black";
+            objVehicle.Color = "GREY";
         }
 
-   
 
         public void SetAccessories()
         {
-            objVehicle.Accessories.Add("Heated seats");
-           
+            objVehicle.Accessories.Add("Leather steering wheel");
         }
 
         public Vehicle GetVehicle()

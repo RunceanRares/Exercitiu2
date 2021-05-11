@@ -10,7 +10,7 @@
 
         public void SetEngine()
         {
-            objVehicle.Engine = "3.0TFSI";
+            objVehicle.Engine = Engine.Disel.ToString();
         }
 
         public void SetColor()

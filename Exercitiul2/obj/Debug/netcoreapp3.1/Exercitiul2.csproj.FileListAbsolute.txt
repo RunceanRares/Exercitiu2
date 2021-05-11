@@ -11,3 +11,16 @@ D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\obj\Debug\netcoreapp3.1\Ex
 D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.dll
 D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.pdb
 D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.genruntimeconfig.cache
+D:\People Power\DesignPatterns\Exercitiu2\Exercitiul2\bin\Debug\netcoreapp3.1\Exercitiul2.exe
+D:\People Power\DesignPatterns\Exercitiu2\Exercitiul2\bin\Debug\netcoreapp3.1\Exercitiul2.deps.json
+D:\People Power\DesignPatterns\Exercitiu2\Exercitiul2\bin\Debug\netcoreapp3.1\Exercitiul2.runtimeconfig.json
+D:\People Power\DesignPatterns\Exercitiu2\Exercitiul2\bin\Debug\netcoreapp3.1\Exercitiul2.runtimeconfig.dev.json
+D:\People Power\DesignPatterns\Exercitiu2\Exercitiul2\bin\Debug\netcoreapp3.1\Exercitiul2.dll
+D:\People Power\DesignPatterns\Exercitiu2\Exercitiul2\bin\Debug\netcoreapp3.1\Exercitiul2.pdb
+D:\People Power\DesignPatterns\Exercitiu2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.csprojAssemblyReference.cache
+D:\People Power\DesignPatterns\Exercitiu2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.AssemblyInfoInputs.cache
+D:\People Power\DesignPatterns\Exercitiu2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.AssemblyInfo.cs
+D:\People Power\DesignPatterns\Exercitiu2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.csproj.CoreCompileInputs.cache
+D:\People Power\DesignPatterns\Exercitiu2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.dll
+D:\People Power\DesignPatterns\Exercitiu2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.pdb
+D:\People Power\DesignPatterns\Exercitiu2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.genruntimeconfig.cache
