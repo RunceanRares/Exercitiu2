@@ -1,0 +1,13 @@
+D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\bin\Debug\netcoreapp3.1\Exercitiul2.exe
+D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\bin\Debug\netcoreapp3.1\Exercitiul2.deps.json
+D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\bin\Debug\netcoreapp3.1\Exercitiul2.runtimeconfig.json
+D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\bin\Debug\netcoreapp3.1\Exercitiul2.runtimeconfig.dev.json
+D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\bin\Debug\netcoreapp3.1\Exercitiul2.dll
+D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\bin\Debug\netcoreapp3.1\Exercitiul2.pdb
+D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.csprojAssemblyReference.cache
+D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.AssemblyInfoInputs.cache
+D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.AssemblyInfo.cs
+D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.csproj.CoreCompileInputs.cache
+D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.dll
+D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.pdb
+D:\Munca\Step7-DesignPatterns\Exercitiul2\Exercitiul2\obj\Debug\netcoreapp3.1\Exercitiul2.genruntimeconfig.cache
