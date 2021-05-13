@@ -10,12 +10,12 @@ namespace Ex3
 
         public override void SendFile()
         {
-            instantMessenger.SendFile();
+            messagingService.SendFile();
         }
 
         public override void SendMessage()
         {
-            instantMessenger.SendMessage();
+            messagingService.SendMessage();
         }
     }
 

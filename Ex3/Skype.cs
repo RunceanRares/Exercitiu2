@@ -10,12 +10,12 @@ namespace Ex3
         public Skype(IMessagingService instantMessenger) : base(instantMessenger) { }
         public override void SendFile()
         {
-            throw new NotImplementedException();
+            messagingService.SendFile();
         }
 
         public override void SendMessage()
         {
-            throw new NotImplementedException();
+            messagingService.SendMessage();
         }
     }
 }

@@ -1,0 +1,13 @@
+D:\People Power\DesignPatterns\Exercitiu2\Ex3\bin\Debug\netcoreapp3.1\Ex3.exe
+D:\People Power\DesignPatterns\Exercitiu2\Ex3\bin\Debug\netcoreapp3.1\Ex3.deps.json
+D:\People Power\DesignPatterns\Exercitiu2\Ex3\bin\Debug\netcoreapp3.1\Ex3.runtimeconfig.json
+D:\People Power\DesignPatterns\Exercitiu2\Ex3\bin\Debug\netcoreapp3.1\Ex3.runtimeconfig.dev.json
+D:\People Power\DesignPatterns\Exercitiu2\Ex3\bin\Debug\netcoreapp3.1\Ex3.dll
+D:\People Power\DesignPatterns\Exercitiu2\Ex3\bin\Debug\netcoreapp3.1\Ex3.pdb
+D:\People Power\DesignPatterns\Exercitiu2\Ex3\obj\Debug\netcoreapp3.1\Ex3.csprojAssemblyReference.cache
+D:\People Power\DesignPatterns\Exercitiu2\Ex3\obj\Debug\netcoreapp3.1\Ex3.AssemblyInfoInputs.cache
+D:\People Power\DesignPatterns\Exercitiu2\Ex3\obj\Debug\netcoreapp3.1\Ex3.AssemblyInfo.cs
+D:\People Power\DesignPatterns\Exercitiu2\Ex3\obj\Debug\netcoreapp3.1\Ex3.csproj.CoreCompileInputs.cache
+D:\People Power\DesignPatterns\Exercitiu2\Ex3\obj\Debug\netcoreapp3.1\Ex3.dll
+D:\People Power\DesignPatterns\Exercitiu2\Ex3\obj\Debug\netcoreapp3.1\Ex3.pdb
+D:\People Power\DesignPatterns\Exercitiu2\Ex3\obj\Debug\netcoreapp3.1\Ex3.genruntimeconfig.cache
